@@ -36,6 +36,8 @@ _Last updated: 2026-11-13_
 
 ### Next
 - Build a small practice page to learn the ask / check / commit / push cycle.
+- Call with the designer about the demo story and screens (see PLAN.md).
 
 ### Notes for partner
 - If your Claude can read this section after a pull, the sync works in both directions.
+- Added PLAN.md with the full hackathon plan; please read it and correct anything about design.

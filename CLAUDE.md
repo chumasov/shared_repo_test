@@ -13,6 +13,7 @@ the two Claudes share progress. Follow these rules in every session.
 
 | File | What goes in it |
 |------|-----------------|
+| `PLAN.md` | Hackathon plan: challenge, product concept, tech decisions, schedule, and "Where we stopped". Read it before any hackathon work. |
 | `STATUS.md` | Progress: what each person has done, is doing now, and plans next. |
 | `design.md` | Everything about design: UI/UX, visual style, colors, fonts, layouts, design decisions and their reasons. |
 | `README.md` | General project description only. Do not put status or design notes here. |
@@ -23,7 +24,7 @@ one-line pointer in `STATUS.md` (for example "Updated button styles, see design.
 ## At the start of every session
 
 1. Run `git pull` to get the partner's latest updates.
-2. Read `STATUS.md` and `design.md`.
+2. Read `PLAN.md`, `STATUS.md` and `design.md`.
 3. Briefly tell the user what the partner did since their last update and what they
    are working on now.
 

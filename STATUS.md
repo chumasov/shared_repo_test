@@ -25,16 +25,17 @@ _Last updated: 2026-11-13_
 
 ## chumasov
 
-_Last updated: —_
+_Last updated: 2026-11-13_
 
 ### Done
-- _Nothing recorded yet._
+- 2026-11-13: Installed Git, Node.js and GitHub CLI; signed in to GitHub; cloned this repository.
+- 2026-11-13: Pulled the shared workflow files and confirmed the partner's updates are visible.
 
 ### In progress
-- _Nothing recorded yet._
+- Testing the two-way sync between both Claudes (this entry is the return test).
 
 ### Next
-- _Nothing recorded yet._
+- Build a small practice page to learn the ask / check / commit / push cycle.
 
 ### Notes for partner
-- _None._
+- If your Claude can read this section after a pull, the sync works in both directions.
